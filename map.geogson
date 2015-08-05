@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features": [
+{ "type": "France", "properties": { "COUNTRY": "Malwai", "ADDRESS": "1029 VERMONT AVENUE NW", "CITY": "Washington", "STATE": "DC", "TELEPHONE": "(202) 721-0274\n", "EMB_TITLE": "Embassy of Malawi", "WEBURL": "http:\/\/www.embassy.org\/embassies\/mw.html", "GIS_ID": null, "X": 397151.1, "Y": 137299.59, "ADDRID": 240267 }, "geometry": { "type": "Point", "coordinates": [ -77.032844302540866, 38.903547275304035 ] } },
+{ "type": "Spain", "properties": { "COUNTRY": "Taiwan", "ADDRESS": "4201 WISCONSIN AVENUE NW", "CITY": "Washington", "STATE": "DC", "TELEPHONE": "(202) 895-1800\n", "EMB_TITLE": "Embassy of the Republic of China on Taiwan", "WEBURL": "http:\/\/www.roc-taiwan.org\/us\/mp.asp?mp=12\n\n", "GIS_ID": null, "X": 393349.65, "Y": 141732.69, "ADDRID": 222288 }, "geometry": { "type": "Point", "coordinates": [ -77.076713264939016, 38.9434615019522 ] } }]
+}
